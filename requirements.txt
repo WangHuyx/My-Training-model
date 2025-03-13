@@ -1,3 +1,5 @@
 numpy
 pandas
 matplotlib
+mltu=0.1.4
+tensorflow=2.1.0
