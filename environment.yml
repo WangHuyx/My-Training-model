@@ -1,10 +1,10 @@
 name: mybinder-env
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.9
   - numpy
   - pandas
   - matplotlib
-  - mltu=0.1.4
-  - tensorflow=2.1.0
+  - jupyter
